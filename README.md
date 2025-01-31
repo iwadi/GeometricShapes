@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+
+Don't forget to install node_modules via npm install command on react
